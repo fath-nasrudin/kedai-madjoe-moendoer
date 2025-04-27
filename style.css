@@ -179,3 +179,16 @@ a.cta-button {
     padding: 6px 20px;
     border-radius: 8px;
 }
+
+/* footer */
+.footer {
+    background-color: #1f2937;
+    padding: 16px;
+    text-align: center;
+}
+
+.footer a {
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: #ffa500;
+}
